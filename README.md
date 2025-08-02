@@ -4,6 +4,9 @@ India witnesses various types of fire incidents annually, including forest fires
 
 While the MODIS dataset includes rich geospatial and thermal parameters, the challenge lies in correctly classifying the type of fire event — whether it stems from vegetation, volcanoes, static land sources, or offshore sources — using satellite-captured features.
 
+### Best Model
+(https://drive.google.com/file/d/1K-CkomnFCIaZVmTCCGRVR1wG75_54EZU/view?usp=share_link)
+
 ### Objective:
 To develop a machine learning classification model that can accurately predict the type of fire using MODIS fire detection data for India from 2021 to 2023
 
